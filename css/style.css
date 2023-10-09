@@ -5,6 +5,7 @@
 /* stili generali */
 :root{
     font-size: 14px;
+   
 }
 
 
@@ -22,7 +23,23 @@ header img{
    margin-bottom: 10px;
 }
 
+
+
 /* stile main */
+
+   
+h4{
+   font-size: 10px;
+   color: rgb(166, 162, 162);
+   margin-top: 5px;
+}
+h4 span{
+    color: rgb(72, 166, 225);
+}
+p{
+ font-style: italic;
+ font-size: 10px;
+}
 
 
 /* stile footer */
