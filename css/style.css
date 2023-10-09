@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* stili generali */
+:root{
+    font-size: 14px;
+}
+
+
+
+/* stile header */
+header{
+background-image:url("css/img/pattern.png");}
+header img{
+   width: 100px;
+   margin-top: 30px;
+   margin-bottom: 10px;
+}
+
+/* stile main */
+
+
+/* stile footer */
