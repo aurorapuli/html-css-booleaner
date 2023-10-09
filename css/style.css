@@ -11,7 +11,11 @@
 
 /* stile header */
 header{
-background-image:url("css/img/pattern.png");}
+background-size: contain;
+background-image: url(file:///C:/Users/auror/OneDrive/Desktop/esercizi%20boolean/html-css-booleaner/img/pattern.png);
+background-color:rgb(72, 166, 225);
+
+}
 header img{
    width: 100px;
    margin-top: 30px;
