@@ -85,3 +85,22 @@ table{
 
 
 /* stile footer */
+
+footer h3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.conteiner{
+position: relative;
+width: 50%;
+
+    
+}
+
+.titlePhoto{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    left: 30px;
+
+}
